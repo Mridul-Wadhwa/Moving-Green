@@ -1,0 +1,6 @@
+# Title: October 2024 New York Statewide Average Temperature
+# Units: Degrees Fahrenheit
+# Missing: -99
+# Note: Period of Record: 130 Years
+ID,Name,Value,Anomaly (1901-2000 base period),Rank,1901-2000 Mean
+30,New York,50.6,2.6,106,48
