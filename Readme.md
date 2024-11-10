@@ -28,7 +28,7 @@ Getting Started:
 
 Data Sources:
 - CO2 emissions by sector and fuel: Government datasets on U.S. emissions.
-- Disaster data: Government flood, drought, and wildfire data.
+- Disaster data: Currently, Synthetic flood, drought, and wildfire data.
 
 Contributions:
 Feel free to fork the repository, submit pull requests, or open issues for improvements or new features.
